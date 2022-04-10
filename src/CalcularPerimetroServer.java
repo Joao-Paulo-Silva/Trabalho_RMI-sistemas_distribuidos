@@ -21,9 +21,9 @@ public class CalcularPerimetroServer implements CalcularPerimetro{
 	}
 
 	/**
-	* MÈtodo que calcula o perÌmetro de um quadrado a partir de um lado informado pelo usu·rio.
-    * @param lado - Lado do quadrado tipo float.
-    * @return perimetro - PerÌmetro calculado a partir do lado.
+	* M√©todo que calcula o per√≠metro de um quadrado a partir de um lado informado pelo usu√°rio.
+    	* @param lado - Lado do quadrado tipo float.
+    	* @return perimetro - Per√≠metro calculado a partir do lado.
 	* @throws RemoteException
 	*/
 	public float calcularPerimetroQuadrado(float lado) throws RemoteException {
